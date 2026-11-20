@@ -1,0 +1,174 @@
+description,concept,language,location,industry
+"Accounting, tax and company secretarial services",accounting_services,en,,Professional Services
+Agensi pelancongan umrah dan pelancongan masuk,umrah_travel,ms,,Hospitality
+Agensi penghantaran fret dan kastam,freight_forwarding,ms,,Logistics
+Architectural design and planning services,architecture,en,,Professional Services
+"Bakery producing bread, cakes and pastries for retail outlets",bakery,en,,Food & Beverage
+Boutique hotel in Ipoh,boutique_hotel,en,Ipoh,Hospitality
+Boutique hotel in Kota Kinabalu,boutique_hotel,en,Kota Kinabalu,Hospitality
+Boutique hotel in Kuantan,boutique_hotel,en,Kuantan,Hospitality
+Boutique hotel in Kuching,boutique_hotel,en,Kuching,Hospitality
+Boutique hotel in Melaka,boutique_hotel,en,Melaka,Hospitality
+Boutique hotel in Penang,boutique_hotel,en,Penang,Hospitality
+Boutique hotel in Seremban,boutique_hotel,en,Seremban,Hospitality
+Boutique hotel in the Klang Valley,boutique_hotel,en,the Klang Valley,Hospitality
+Civil engineering works for roads and drainage,civil_engineering,en,,Construction
+Cloud hosting and managed IT services,cloud_hosting,en,,Technology
+Cold chain transport and storage of frozen goods,cold_chain,en,,Logistics
+Community pharmacy and health supplements,pharmacy,en,,Healthcare
+Dental clinic and orthodontic services,dental_clinic,en,,Healthcare
+Durian orchard and fruit export,durian_orchard,en,,Agriculture
+Farmasi komuniti dan makanan tambahan,pharmacy,ms,,Healthcare
+Freight forwarding and customs brokerage at Port Klang,freight_forwarding,en,,Logistics
+General contractor for residential and commercial buildings,general_contractor,en,,Construction
+General practice clinic in Ipoh,gp_clinic,en,Ipoh,Healthcare
+General practice clinic in Johor Bahru,gp_clinic,en,Johor Bahru,Healthcare
+General practice clinic in Kota Kinabalu,gp_clinic,en,Kota Kinabalu,Healthcare
+General practice clinic in Kuantan,gp_clinic,en,Kuantan,Healthcare
+General practice clinic in Kuching,gp_clinic,en,Kuching,Healthcare
+General practice clinic in Melaka,gp_clinic,en,Melaka,Healthcare
+General practice clinic in Penang,gp_clinic,en,Penang,Healthcare
+General practice clinic in Seremban,gp_clinic,en,Seremban,Healthcare
+General practice clinic in the Klang Valley,gp_clinic,en,the Klang Valley,Healthcare
+Halal catering for corporate events and weddings,halal_catering,en,,Food & Beverage
+Home nursing care for the elderly,elderly_care,en,,Healthcare
+Homestay and chalet operations by the beach,beach_homestay,en,,Hospitality
+Hotel butik di Ipoh,boutique_hotel,ms,Ipoh,Hospitality
+Hotel butik di Johor Bahru,boutique_hotel,ms,Johor Bahru,Hospitality
+Hotel butik di Kota Kinabalu,boutique_hotel,ms,Kota Kinabalu,Hospitality
+Hotel butik di Kuantan,boutique_hotel,ms,Kuantan,Hospitality
+Hotel butik di Kuching,boutique_hotel,ms,Kuching,Hospitality
+Hotel butik di Melaka,boutique_hotel,ms,Melaka,Hospitality
+Hotel butik di Penang,boutique_hotel,ms,Penang,Hospitality
+Hotel butik di Seremban,boutique_hotel,ms,Seremban,Hospitality
+Hotel butik di the Klang Valley,boutique_hotel,ms,the Klang Valley,Hospitality
+Hydroponic vegetable farming for supermarkets,hydroponics,en,,Agriculture
+IT support and network installation for offices in Ipoh,it_support,en,Ipoh,Technology
+IT support and network installation for offices in Johor Bahru,it_support,en,Johor Bahru,Technology
+IT support and network installation for offices in Kota Kinabalu,it_support,en,Kota Kinabalu,Technology
+IT support and network installation for offices in Kuantan,it_support,en,Kuantan,Technology
+IT support and network installation for offices in Kuching,it_support,en,Kuching,Technology
+IT support and network installation for offices in Melaka,it_support,en,Melaka,Technology
+IT support and network installation for offices in Penang,it_support,en,Penang,Technology
+IT support and network installation for offices in Seremban,it_support,en,Seremban,Technology
+IT support and network installation for offices in the Klang Valley,it_support,en,the Klang Valley,Technology
+Kebun durian dan eksport buah-buahan,durian_orchard,ms,,Agriculture
+Kedai runcit barangan keperluan harian,grocery_store,ms,,Retail
+Kerja-kerja kejuruteraan awam jalan dan saliran,civil_engineering,ms,,Construction
+Klinik perubatan am di Ipoh,gp_clinic,ms,Ipoh,Healthcare
+Klinik perubatan am di Johor Bahru,gp_clinic,ms,Johor Bahru,Healthcare
+Klinik perubatan am di Kota Kinabalu,gp_clinic,ms,Kota Kinabalu,Healthcare
+Klinik perubatan am di Kuching,gp_clinic,ms,Kuching,Healthcare
+Klinik perubatan am di Melaka,gp_clinic,ms,Melaka,Healthcare
+Klinik perubatan am di Penang,gp_clinic,ms,Penang,Healthcare
+Klinik perubatan am di Seremban,gp_clinic,ms,Seremban,Healthcare
+Kontraktor am bangunan kediaman dan komersial,general_contractor,ms,,Construction
+Ladang kelapa sawit dan pembekalan buah tandan segar,oil_palm,ms,,Agriculture
+Last-mile parcel delivery across Ipoh,parcel_delivery,en,Ipoh,Logistics
+Last-mile parcel delivery across Johor Bahru,parcel_delivery,en,Johor Bahru,Logistics
+Last-mile parcel delivery across Kota Kinabalu,parcel_delivery,en,Kota Kinabalu,Logistics
+Last-mile parcel delivery across Kuantan,parcel_delivery,en,Kuantan,Logistics
+Last-mile parcel delivery across Kuching,parcel_delivery,en,Kuching,Logistics
+Last-mile parcel delivery across Melaka,parcel_delivery,en,Melaka,Logistics
+Last-mile parcel delivery across Penang,parcel_delivery,en,Penang,Logistics
+Last-mile parcel delivery across Seremban,parcel_delivery,en,Seremban,Logistics
+Last-mile parcel delivery across the Klang Valley,parcel_delivery,en,the Klang Valley,Logistics
+Management consulting for SMEs,management_consulting,en,,Professional Services
+Manufacture of furniture from rubberwood,rubberwood_furniture,en,,Manufacturing
+Manufacture of plastic packaging for food products,plastic_packaging,en,,Manufacturing
+Mengusahakan kedai kopi dan kafe di Johor Bahru,cafe,ms,Johor Bahru,Food & Beverage
+Mengusahakan kedai kopi dan kafe di Kota Kinabalu,cafe,ms,Kota Kinabalu,Food & Beverage
+Mengusahakan kedai kopi dan kafe di Kuantan,cafe,ms,Kuantan,Food & Beverage
+Mengusahakan kedai kopi dan kafe di Kuching,cafe,ms,Kuching,Food & Beverage
+Mengusahakan kedai kopi dan kafe di Melaka,cafe,ms,Melaka,Food & Beverage
+Mengusahakan kedai kopi dan kafe di Penang,cafe,ms,Penang,Food & Beverage
+Mengusahakan kedai kopi dan kafe di Seremban,cafe,ms,Seremban,Food & Beverage
+Mengusahakan kedai kopi dan kafe di the Klang Valley,cafe,ms,the Klang Valley,Food & Beverage
+Mini market selling groceries and household goods,grocery_store,en,,Retail
+Mobile app development for e-commerce clients,mobile_app_dev,en,,Technology
+Oil palm plantation and fresh fruit bunch supply,oil_palm,en,,Agriculture
+Online retail of baby products and toys,baby_products_online,en,,Retail
+Operating cafes and coffee shops in Ipoh,cafe,en,Ipoh,Food & Beverage
+Operating cafes and coffee shops in Johor Bahru,cafe,en,Johor Bahru,Food & Beverage
+Operating cafes and coffee shops in Kota Kinabalu,cafe,en,Kota Kinabalu,Food & Beverage
+Operating cafes and coffee shops in Kuantan,cafe,en,Kuantan,Food & Beverage
+Operating cafes and coffee shops in Melaka,cafe,en,Melaka,Food & Beverage
+Operating cafes and coffee shops in Penang,cafe,en,Penang,Food & Beverage
+Operating cafes and coffee shops in Seremban,cafe,en,Seremban,Food & Beverage
+Operating cafes and coffee shops in the Klang Valley,cafe,en,the Klang Valley,Food & Beverage
+Pembangunan perisian perakaunan untuk perniagaan kecil,accounting_software,ms,,Technology
+Pembuatan perabot daripada kayu getah,rubberwood_furniture,ms,,Manufacturing
+Pengeluaran roti dan kek untuk kedai runcit,bakery,ms,,Food & Beverage
+Pengeluaran sarung tangan getah untuk eksport,rubber_gloves,ms,,Manufacturing
+Penghantaran bungkusan ke seluruh Johor Bahru,parcel_delivery,ms,Johor Bahru,Logistics
+Penghantaran bungkusan ke seluruh Kota Kinabalu,parcel_delivery,ms,Kota Kinabalu,Logistics
+Penghantaran bungkusan ke seluruh Kuantan,parcel_delivery,ms,Kuantan,Logistics
+Penghantaran bungkusan ke seluruh Kuching,parcel_delivery,ms,Kuching,Logistics
+Penghantaran bungkusan ke seluruh Melaka,parcel_delivery,ms,Melaka,Logistics
+Penghantaran bungkusan ke seluruh Penang,parcel_delivery,ms,Penang,Logistics
+Penghantaran bungkusan ke seluruh Seremban,parcel_delivery,ms,Seremban,Logistics
+Penghantaran bungkusan ke seluruh the Klang Valley,parcel_delivery,ms,the Klang Valley,Logistics
+Pengilangan bungkusan plastik untuk produk makanan,plastic_packaging,ms,,Manufacturing
+Pengubahsuaian dan kerja dalaman pejabat,office_renovation,ms,,Construction
+Pengusaha homestay dan chalet tepi pantai,beach_homestay,ms,,Hospitality
+Penjualan telefon bimbit dan aksesori di Ipoh,mobile_phone_retail,ms,Ipoh,Retail
+Penjualan telefon bimbit dan aksesori di Johor Bahru,mobile_phone_retail,ms,Johor Bahru,Retail
+Penjualan telefon bimbit dan aksesori di Kota Kinabalu,mobile_phone_retail,ms,Kota Kinabalu,Retail
+Penjualan telefon bimbit dan aksesori di Kuantan,mobile_phone_retail,ms,Kuantan,Retail
+Penjualan telefon bimbit dan aksesori di Kuching,mobile_phone_retail,ms,Kuching,Retail
+Penjualan telefon bimbit dan aksesori di Melaka,mobile_phone_retail,ms,Melaka,Retail
+Penjualan telefon bimbit dan aksesori di Penang,mobile_phone_retail,ms,Penang,Retail
+Penjualan telefon bimbit dan aksesori di Seremban,mobile_phone_retail,ms,Seremban,Retail
+Penjualan telefon bimbit dan aksesori di the Klang Valley,mobile_phone_retail,ms,the Klang Valley,Retail
+Penternakan ayam dan pengeluaran telur,poultry,ms,,Agriculture
+Perkhidmatan jagaan warga emas di rumah,elderly_care,ms,,Healthcare
+Perkhidmatan katering makanan halal untuk majlis,halal_catering,ms,,Food & Beverage
+Perkhidmatan pengangkutan dan penyimpanan barangan sejuk beku,cold_chain,ms,,Logistics
+"Perkhidmatan perakaunan, cukai dan kesetiausahaan syarikat",accounting_services,ms,,Professional Services
+Perniagaan dalam talian produk bayi,baby_products_online,ms,,Retail
+Perunding pengurusan untuk PKS,management_consulting,ms,,Professional Services
+Poultry farming and egg production,poultry,en,,Agriculture
+Precision machining of metal parts for electronics,precision_machining,en,,Manufacturing
+Private kindergarten and childcare in Ipoh,kindergarten,en,Ipoh,Education
+Private kindergarten and childcare in Johor Bahru,kindergarten,en,Johor Bahru,Education
+Private kindergarten and childcare in Kota Kinabalu,kindergarten,en,Kota Kinabalu,Education
+Private kindergarten and childcare in Kuantan,kindergarten,en,Kuantan,Education
+Private kindergarten and childcare in Kuching,kindergarten,en,Kuching,Education
+Private kindergarten and childcare in Melaka,kindergarten,en,Melaka,Education
+Private kindergarten and childcare in Penang,kindergarten,en,Penang,Education
+Private kindergarten and childcare in Seremban,kindergarten,en,Seremban,Education
+Private kindergarten and childcare in the Klang Valley,kindergarten,en,the Klang Valley,Education
+Production of rubber gloves for export,rubber_gloves,en,,Manufacturing
+Professional training courses in accounting and finance,accounting_training,en,,Education
+Pusat tuisyen untuk pelajar sekolah rendah dan menengah,tuition_centre,ms,,Education
+Recruitment and staffing agency,recruitment,en,,Professional Services
+Renovation and interior fit-out for offices,office_renovation,en,,Construction
+Restaurant serving Malaysian and Chinese cuisine,restaurant,en,,Food & Beverage
+Restoran masakan Melayu dan Cina,restaurant,ms,,Food & Beverage
+Retail of mobile phones and accessories in Ipoh,mobile_phone_retail,en,Ipoh,Retail
+Retail of mobile phones and accessories in Johor Bahru,mobile_phone_retail,en,Johor Bahru,Retail
+Retail of mobile phones and accessories in Kota Kinabalu,mobile_phone_retail,en,Kota Kinabalu,Retail
+Retail of mobile phones and accessories in Kuantan,mobile_phone_retail,en,Kuantan,Retail
+Retail of mobile phones and accessories in Kuching,mobile_phone_retail,en,Kuching,Retail
+Retail of mobile phones and accessories in Melaka,mobile_phone_retail,en,Melaka,Retail
+Retail of mobile phones and accessories in Penang,mobile_phone_retail,en,Penang,Retail
+Retail of mobile phones and accessories in Seremban,mobile_phone_retail,en,Seremban,Retail
+Retail of mobile phones and accessories in the Klang Valley,mobile_phone_retail,en,the Klang Valley,Retail
+Retail of textiles and baju kurung,textile_retail,en,,Retail
+Software development for small business accounting,accounting_software,en,,Technology
+Sokongan IT dan pemasangan rangkaian pejabat,it_support,ms,,Technology
+Supply and installation of steel structures,steel_structures,en,,Construction
+Tadika swasta dan taska di Ipoh,kindergarten,ms,Ipoh,Education
+Tadika swasta dan taska di Johor Bahru,kindergarten,ms,Johor Bahru,Education
+Tadika swasta dan taska di Kota Kinabalu,kindergarten,ms,Kota Kinabalu,Education
+Tadika swasta dan taska di Kuantan,kindergarten,ms,Kuantan,Education
+Tadika swasta dan taska di Kuching,kindergarten,ms,Kuching,Education
+Tadika swasta dan taska di Melaka,kindergarten,ms,Melaka,Education
+Tadika swasta dan taska di Penang,kindergarten,ms,Penang,Education
+Tadika swasta dan taska di Seremban,kindergarten,ms,Seremban,Education
+Tadika swasta dan taska di the Klang Valley,kindergarten,ms,the Klang Valley,Education
+Trading,trading,en,,Retail
+Travel agency for umrah and inbound tourism,umrah_travel,en,,Hospitality
+Trucking services for construction materials,trucking,en,,Logistics
+Tuition centre for primary and secondary students,tuition_centre,en,,Education
+Wholesale distribution of frozen food to restaurants,frozen_food_wholesale,en,,Food & Beverage
